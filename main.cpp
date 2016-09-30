@@ -1,10 +1,10 @@
 #include <iostream>
 #include <cstdlib>
 
-using namespace std;
+//using namespace std;
 
 int main()
 {                                                       
-cout<<"Hello World!"<<endl;
+std::cout<<"Hello World!"<<'\n';
 return EXIT_SUCCESS;
 }
